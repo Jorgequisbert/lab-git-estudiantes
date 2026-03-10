@@ -1,0 +1,3 @@
+Nuevo archivo creado 
+el archivo se llama lista.txt
+veremos la creacion de un nuevo archivo y subirlo al repositorio remoto
