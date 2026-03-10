@@ -1,1 +1,2 @@
 creacion archivo 1.txt
+modificacion de archivo1.txt despues de subir los archivos al repositorio remoto
